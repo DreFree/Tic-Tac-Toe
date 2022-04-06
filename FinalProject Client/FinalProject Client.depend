@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1531127218 source:/home/project/Documents/Network Programming/FinalProject/FinalProject Client/main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	"errno.h"
+	"unistd.h"
+	"sys/socket.h"
+	"arpa/inet.h"
+	"netinet/in.h"
+
